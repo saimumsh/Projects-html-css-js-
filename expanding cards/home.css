@@ -1,0 +1,52 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    background-color: black;
+
+}
+.main_section{
+    display: flex;
+    width: 90vw;
+}
+.mm{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+    border-radius: 20px;
+    flex: 0.25;
+    margin: 10px;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    transition: flex 0.8s ease-in;
+}
+.mm p{
+    font-size: 15px;
+    position:absolute;
+    bottom: 20px;
+    left: 20px;
+    margin: 0;
+    opacity: 0;
+}
+.mm.active{
+    flex: 5;
+}
+.mm.active p{
+    opacity: 1;
+    transition:opacity 0.2s ease-in 0.4s;
+}
+@media(max-width:580px){
+    .main_section{
+        width: 100vw;
+    }
+    .mm:nth-of-type(4).mm:nth-of-type(4){
+        display: none;
+    }
+}
