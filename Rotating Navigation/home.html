@@ -3,17 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="/Rotating Navigation/home.css">
     <title>Rotating Navigation</title>
 </head>
 <body>
     <div class="main">
-        <div class="container">
-            <div class="profile">
-                <div class="about">
-                    
+        <div id="container" class="container">
+            <div class="circle_container">
+                <div class="circle">
+                    <button id="open"><i class="bi bi-list"></i></button>
+                    <button id="close"><i class="bi bi-x"></i></button>
                 </div>
             </div>
+            <div class="profile">
+                <div class="profile_pic">
+                    <img src="/Rotating Navigation/images/images.jpg" alt="">
+                </div>
+                <div class="about">
+                    <div class="persona">
+                        <h4>Hellow! Everybody, I am </h4>
+                        <h1>Md Shahadat Hossain</h1>
+                        <h3>Junior Web Developer</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, nisi perferendis architecto repudiandae debitis consequatur vitae minima excepturi iusto adipisci aliquid maiores eveniet illum ex quam delectus quos at hic.
+                        Minus, quia explicabo? Aperiam voluptas praesentium iure necessitatibus in eligendi doloribus dolor nesciunt unde. Quod maxime porro ipsam laboriosam error maiores vel adipisci tempore commodi enim, molestias eligendi odit dolorem.
+                        Commodi asperiores incidunt impedit, et quidem alias eius perferendis! Quis asperiores unde aliquam optio expedita doloremque cum ullam consectetur in ad? Eligendi deserunt aliquam vero accusantium, corrupti voluptates earum dolorem.
+                        Qui, quam totam earum itaque rerum sunt quis beatae ad velit nisi vero nostrum ea voluptas laboriosam? Repellendus illo magni voluptate ex corrupti voluptatum animi? Cum mollitia nam distinctio asperiores.
+                        Earum nostrum error maiores. Iure quam eligendi ab recusandae voluptatibus? Autem repellat temporibus facilis minus. Deleniti autem distinctio architecto quia totam nulla, velit similique quidem pariatur eligendi est tenetur accusamus.</p>
+                    </div>
+                    <div class="contact">
+                        <div class="cc">
+                            <img src="/node_modules/bootstrap-icons/icons/calendar-check-fill.svg" alt="">
+                            <p>20th June , 1997</p>
+                        </div>
+                        <div class="cc">
+                            <img src="/node_modules/bootstrap-icons/icons/phone-fill.svg" alt="">
+                            <p>8801764505219</p>
+                        </div>
+                        <div class="cc">
+                            <img src="/node_modules/bootstrap-icons/icons/mailbox2.svg" alt="">
+                            <p>professorsleepyhead@gmail.com</p>
+                        </div>
+                        <div class="cc">
+                            <img src="/node_modules/bootstrap-icons/icons/house-exclamation-fill.svg" alt="">
+                            <p>Gazipur , Dhaka</p>
+                        </div>
+                    </div>
+                    <div class="social_icon">
+                        <img src="/node_modules/bootstrap-icons/icons/facebook.svg" alt="">
+                        <img src="/node_modules/bootstrap-icons/icons/twitter-x.svg" alt="">
+                        <img src="/node_modules/bootstrap-icons/icons/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        <div class="nav">
+            <ul>
+                <li><i class="bi bi-house"></i>Home</li>
+                <li><i class="bi bi-file-person-fill"></i>About</li>
+                <li><i class="bi bi-person-lines-fill"></i>Contact</li>
+            </ul>
         </div>
     </div>
+    <script src='home.js'></script>
 </body>
 </html>
