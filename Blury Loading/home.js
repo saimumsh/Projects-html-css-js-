@@ -11,7 +11,9 @@ function fun()
         clearInterval(int);
     }
     percent.innerText = `${aa}%`;
-    percent.style.opacity = scale(aa,0,100,1,0);
+    percent.style.opacity = scale(aa,0,100,1,0)
+    container.style.filter = `blur(${scale(aa , 0, 100,30,0)}px)`
+   
 }
 
 const scale = (x , a , b , c ,d) => {
