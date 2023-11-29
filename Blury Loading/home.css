@@ -11,6 +11,7 @@
     top: 0px;
     left: 0px;
     filter: blur(0px);
+    overflow-y: hidden;
 }
 .percent{
     font-size: 50px;
