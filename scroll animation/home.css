@@ -10,7 +10,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 200vh;
 }
 .scroll{
     display: flex;
@@ -21,4 +21,12 @@ body{
     align-items: center;
     margin: 5px;
     border-radius: 10px;
+    transform: translateX(500%);
+    transition: transform 0.4s ease;
+}
+.scroll:nth-of-type(even){
+    transform: translateX(-500%);
+}
+.scroll.show{
+    transform: translateX(0);
 }
