@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(19, 32, 44);
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.scroll{
+    display: flex;
+    background-color: black;
+    width: 25vw;
+    height: 25vh;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    border-radius: 10px;
+}
