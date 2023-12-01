@@ -16,14 +16,19 @@ body{
 .scroll{
     display: flex;
     background-color: black;
-    width: 25vw;
-    height: 25vh;
+    width: 40vw;
+    height: 50vh;
     justify-content: center;
     align-items: center;
     margin: 5px;
     border-radius: 10px;
     transform: translateX(500%);
     transition: transform 0.4s ease;
+}
+.scroll img{
+    width: 40vw;
+    height: 50vh;
+    border-radius: 15px;
 }
 .scroll:nth-of-type(even){
     transform: translateX(-500%);
