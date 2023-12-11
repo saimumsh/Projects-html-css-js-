@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\.NET\\.NET.csproj": {}
+    "d:\\Project job\\.NET\\.NET.csproj": {}
   },
   "projects": {
-    "d:\\.NET\\.NET.csproj": {
+    "d:\\Project job\\.NET\\.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\.NET\\.NET.csproj",
+        "projectUniqueName": "d:\\Project job\\.NET\\.NET.csproj",
         "projectName": ".NET",
-        "projectPath": "d:\\.NET\\.NET.csproj",
+        "projectPath": "d:\\Project job\\.NET\\.NET.csproj",
         "packagesPath": "C:\\Users\\Md. Shahadat Hossain\\.nuget\\packages\\",
-        "outputPath": "d:\\.NET\\obj\\",
+        "outputPath": "d:\\Project job\\.NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Md. Shahadat Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config"

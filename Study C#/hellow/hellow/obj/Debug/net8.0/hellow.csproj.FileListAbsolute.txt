@@ -1,0 +1,15 @@
+D:\Project job\Study C#\hellow\hellow\bin\Debug\net8.0\hellow.exe
+D:\Project job\Study C#\hellow\hellow\bin\Debug\net8.0\hellow.deps.json
+D:\Project job\Study C#\hellow\hellow\bin\Debug\net8.0\hellow.runtimeconfig.json
+D:\Project job\Study C#\hellow\hellow\bin\Debug\net8.0\hellow.dll
+D:\Project job\Study C#\hellow\hellow\bin\Debug\net8.0\hellow.pdb
+D:\Project job\Study C#\hellow\hellow\obj\Debug\net8.0\hellow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project job\Study C#\hellow\hellow\obj\Debug\net8.0\hellow.AssemblyInfoInputs.cache
+D:\Project job\Study C#\hellow\hellow\obj\Debug\net8.0\hellow.AssemblyInfo.cs
+D:\Project job\Study C#\hellow\hellow\obj\Debug\net8.0\hellow.csproj.CoreCompileInputs.cache
+D:\Project job\Study C#\hellow\hellow\obj\Debug\net8.0\hellow.sourcelink.json
+D:\Project job\Study C#\hellow\hellow\obj\Debug\net8.0\hellow.dll
+D:\Project job\Study C#\hellow\hellow\obj\Debug\net8.0\refint\hellow.dll
+D:\Project job\Study C#\hellow\hellow\obj\Debug\net8.0\hellow.pdb
+D:\Project job\Study C#\hellow\hellow\obj\Debug\net8.0\hellow.genruntimeconfig.cache
+D:\Project job\Study C#\hellow\hellow\obj\Debug\net8.0\ref\hellow.dll

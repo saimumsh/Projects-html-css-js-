@@ -28,3 +28,34 @@ d:\.NET\obj\Debug\net8.0\staticwebassets.pack.json
 d:\.NET\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 d:\.NET\obj\Debug\net8.0\scopedcss\bundle\.NET.styles.css
 d:\.NET\obj\Debug\net8.0\scopedcss\projectbundle\.NET.bundle.scp.css
+D:\Project job\.NET\bin\Debug\net8.0\appsettings.Development.json
+D:\Project job\.NET\bin\Debug\net8.0\appsettings.json
+D:\Project job\.NET\bin\Debug\net8.0\.NET.staticwebassets.runtime.json
+D:\Project job\.NET\bin\Debug\net8.0\.NET.exe
+D:\Project job\.NET\bin\Debug\net8.0\.NET.deps.json
+D:\Project job\.NET\bin\Debug\net8.0\.NET.runtimeconfig.json
+D:\Project job\.NET\bin\Debug\net8.0\.NET.dll
+D:\Project job\.NET\bin\Debug\net8.0\.NET.pdb
+D:\Project job\.NET\obj\Debug\net8.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project job\.NET\obj\Debug\net8.0\.NET.AssemblyInfoInputs.cache
+D:\Project job\.NET\obj\Debug\net8.0\.NET.AssemblyInfo.cs
+D:\Project job\.NET\obj\Debug\net8.0\.NET.csproj.CoreCompileInputs.cache
+D:\Project job\.NET\obj\Debug\net8.0\.NET.MvcApplicationPartsAssemblyInfo.cache
+D:\Project job\.NET\obj\Debug\net8.0\.NET.RazorAssemblyInfo.cache
+D:\Project job\.NET\obj\Debug\net8.0\.NET.RazorAssemblyInfo.cs
+D:\Project job\.NET\obj\Debug\net8.0\.NET.sourcelink.json
+D:\Project job\.NET\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project job\.NET\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project job\.NET\obj\Debug\net8.0\staticwebassets\msbuild..NET.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project job\.NET\obj\Debug\net8.0\staticwebassets\msbuild.build..NET.props
+D:\Project job\.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting..NET.props
+D:\Project job\.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive..NET.props
+D:\Project job\.NET\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project job\.NET\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project job\.NET\obj\Debug\net8.0\scopedcss\bundle\.NET.styles.css
+D:\Project job\.NET\obj\Debug\net8.0\scopedcss\projectbundle\.NET.bundle.scp.css
+D:\Project job\.NET\obj\Debug\net8.0\.NET.dll
+D:\Project job\.NET\obj\Debug\net8.0\refint\.NET.dll
+D:\Project job\.NET\obj\Debug\net8.0\.NET.pdb
+D:\Project job\.NET\obj\Debug\net8.0\.NET.genruntimeconfig.cache
+D:\Project job\.NET\obj\Debug\net8.0\ref\.NET.dll
