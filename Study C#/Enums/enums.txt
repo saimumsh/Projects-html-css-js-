@@ -1,0 +1,26 @@
+using System;
+
+namespace HelloWorld
+{
+    //enums is basically like map in c++ 
+
+    public enum ShippingMethod
+    {
+        RegularAirMain = 1,
+        RegisteredAirMail = 2,
+        Express = 3
+    }
+    class Program { 
+        static void Main(string[] args)
+        {
+            var method = ShippingMethod.Express;
+            Console.WriteLine((int)method);
+            var methodId = 3;
+            Console.WriteLine((ShippingMethod)methodId);
+            var str = "Express";
+            var shipM =(ShippingMethod)Enum.Parse(typeof(ShippingMethod), str);//type conversion for enum 
+            Console.WriteLine((int)shipM);
+
+        }
+    }
+}

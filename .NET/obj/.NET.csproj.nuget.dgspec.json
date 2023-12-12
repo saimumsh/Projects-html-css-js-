@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Project job\\.NET\\.NET.csproj": {}
+    "D:\\Project job\\.NET\\.NET.csproj": {}
   },
   "projects": {
-    "d:\\Project job\\.NET\\.NET.csproj": {
+    "D:\\Project job\\.NET\\.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Project job\\.NET\\.NET.csproj",
+        "projectUniqueName": "D:\\Project job\\.NET\\.NET.csproj",
         "projectName": ".NET",
-        "projectPath": "d:\\Project job\\.NET\\.NET.csproj",
+        "projectPath": "D:\\Project job\\.NET\\.NET.csproj",
         "packagesPath": "C:\\Users\\Md. Shahadat Hossain\\.nuget\\packages\\",
-        "outputPath": "d:\\Project job\\.NET\\obj\\",
+        "outputPath": "D:\\Project job\\.NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Md. Shahadat Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Md. Shahadat Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
